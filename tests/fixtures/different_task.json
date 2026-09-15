@@ -1,0 +1,10 @@
+[
+  {
+    "model_id": "gpt-4",
+    "task_id": "other-task",
+    "harness_id": "harness-v1",
+    "metrics": {
+      "pass": true
+    }
+  }
+]

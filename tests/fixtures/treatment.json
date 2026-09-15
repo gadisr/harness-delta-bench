@@ -1,0 +1,32 @@
+[
+  {
+    "model_id": "gpt-4",
+    "task_id": "swe-bench-1",
+    "harness_id": "improved-harness",
+    "metrics": {
+      "pass": true,
+      "score": 0.98,
+      "latency_ms": 1100
+    }
+  },
+  {
+    "model_id": "gpt-4",
+    "task_id": "swe-bench-2",
+    "harness_id": "improved-harness",
+    "metrics": {
+      "pass": true,
+      "score": 0.72,
+      "latency_ms": 950
+    }
+  },
+  {
+    "model_id": "gpt-4",
+    "task_id": "swe-bench-3",
+    "harness_id": "improved-harness",
+    "metrics": {
+      "pass": true,
+      "score": 0.85,
+      "latency_ms": 1400
+    }
+  }
+]
