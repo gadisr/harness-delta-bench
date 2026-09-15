@@ -1,0 +1,10 @@
+[
+  {
+    "model_id": "claude-3",
+    "task_id": "swe-bench-1",
+    "harness_id": "harness-v1",
+    "metrics": {
+      "pass": true
+    }
+  }
+]

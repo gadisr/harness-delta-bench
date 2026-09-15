@@ -1,0 +1,10 @@
+[
+  {
+    "model_id": "gpt-4",
+    "task_id": "swe-bench-1",
+    "harness_id": "same-harness",
+    "metrics": {
+      "pass": true
+    }
+  }
+]
